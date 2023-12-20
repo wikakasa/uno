@@ -33,6 +33,17 @@ body {
 
 
 
+.ignore-br {
+  br {
+    display:none;
+  }
+}
+
+
+
+
+
+
 
  /* Container holding the image and the text */
 .container {
