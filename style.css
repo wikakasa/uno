@@ -33,12 +33,6 @@ body {
 
 
 
-.ignore-br {
-  br {
-    display:none;
-    white-space: nowrap;
-  }
-}
 
 
 
