@@ -1,4 +1,4 @@
-![image](https://github.com/wikakasa/uno/assets/92477230/bbc52928-0765-43ed-a3ca-ce23a265c18e)
+![image](https://github.com/wikakasa/uno/assets/92477230/94cb360a-18f2-4b68-8773-d843567fe135)
 
 ¡UNO! NETWORK - Revive the skeuomorphism.
 
