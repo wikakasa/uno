@@ -18,12 +18,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-image: url('/asset/shine-purple2.png');
   color: black;
 }
 
 .topnav a.active {
-  background-color: #0055ff;
+ background-image: url('/asset/shine-purple.png');
   color: white;
 }
 
